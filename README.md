@@ -126,5 +126,5 @@ MVP
 
 
 
-[maxresdefault](https://github.com/user-attachments/assets/fb9f46da-fa0a-45c2-b5dc-9fb448e120ae)
+[alt-докс][maxresdefault](https://github.com/user-attachments/assets/fb9f46da-fa0a-45c2-b5dc-9fb448e120ae)
 ()
