@@ -109,4 +109,5 @@ Tree testing. Тест помогает определить наличие кр
 посещает сайт.Первичная навигация–этото, чтопроизводится, продается и предоставляется через сервисы сайта.\
 MVP
 
-![alt-текст](file:///C:/Users/Student/Desktop/i.webp)
+![alt-текст]![maxresdefault](https://github.com/user-attachments/assets/fb9f46da-fa0a-45c2-b5dc-9fb448e120ae)
+()
